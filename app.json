@@ -1,0 +1,16 @@
+{
+  "name": "test-inovasyon",
+  "description": "",
+  "scripts": {
+  },
+  "env": {
+  },
+  "formation": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ]
+}
